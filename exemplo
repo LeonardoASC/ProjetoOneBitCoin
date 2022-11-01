@@ -1,0 +1,13 @@
+/*
+function url(qtdDias) {
+  const date = new Date();
+  const listLastDays = qtdDias;
+  
+  const start_date = 
+  `${date.getFullYear()}/${addZero(date.getMonth() + 1)}/${addZero(date.getDate())}`;
+  
+  //URL  GET API
+  return `https://www.mercadobitcoin.net/api/BTC/day-summary/${start_date}/`;;
+  
+}
+*/
